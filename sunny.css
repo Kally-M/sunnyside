@@ -1,3 +1,47 @@
 .container{
    position: relative; 
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+     text-align: end;
+    
+}
+.card{
+    position: absolute;
+}
+header{
+    display: flex;
+  
+
+}
+body{
+    padding: 10px;
+    margin: 20px;
+ 
+}
+h1{
+    text-align: center;
+ 
+}
+nav{
+display: block;
+
+}
+.box{
+    display: flex;
+}
+.client{
+    display: flex;
+}
+.images{
+    display:flex
+}
+.contairner .card .nav{
+    text-align: end;
+}
+@media{
+    
+}
